@@ -1,6 +1,6 @@
-<h1 align=center>Abaddon Stealer</h1>
+<h1 align=center>Abaddon Discord Rat</h1>
 
-**Stealer / Grabber written in nim** 
+**Rat using the discord api written in nim** 
 
 <p align=center>
    <img src="img/help menu.png" alt="Rat Help Menu" style="width:350px;"/>
