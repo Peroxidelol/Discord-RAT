@@ -13,7 +13,7 @@
     - File management
     - Potential to drop further files
     - Spyware / surveillance features
-- Fast as fuck, like 15 seconds when i test it
+- Fast as fuck
 - Compiles to a C binary, close to hardware
 
 ## How to use
