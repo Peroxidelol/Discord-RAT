@@ -2,8 +2,9 @@
 
 **Rat using the discord api written in nim** 
 
+![helpmenu](https://github.com/AbaddonCS/Discord-RAT/assets/103697143/66a46aa9-6310-4ddd-8989-02ce98cb2299)
+
 <p align=center>
-   ![helpmenu](https://github.com/AbaddonCS/Discord-RAT/assets/103697143/8890578d-cc63-4084-8e6c-4621bd5023a4)
 </p>
 
 ## Features
